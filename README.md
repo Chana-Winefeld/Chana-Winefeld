@@ -1,49 +1,44 @@
 <div align="center">
 
-# 👋 Hi , I'm Chana Winefeld
-
-Full Stack Developer
+### 👋 Hi , I'm Chana Winefeld
+### Full Stack Developer
 
 </div>
 
 ---
 
 ### About me
-
 FullStack Developer with sharp analytical thinking, quick learning ability, and advanced technological skills. Passionate about mastering new technologies and solving problems in-depth. Strong desire to grow and advance professionally.
 
-### My skills
+<div align="center">
 
-<p align="left">
+### My skills
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,dotnet,cs,python,java,html,css,tailwind,redux,mongodb,mysql,sqlite,postgres,docker,git,github,vscode,linux,aws,figma,postman" />
-</p>
+
+</div>
 
 ---
 
 ### My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Chana-Winefeld&show_icons=true&theme=radical&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chana-Winefeld&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chana-Winefeld&layout=compact&theme=radical&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Chana-Winefeld&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chana-Winefeld&theme=radical&hide_border=true" height="150" />
+</p>
+
+---
+
+### Activity Overview
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chana-Winefeld&theme=radical" width="100%" />
+</p>
 
 <br>
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chana-Winefeld&theme=radical&hide_border=true" />
-    </td>
-    <td width="40%" style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
-      <i style="color: #f8f8f2; font-size: 14px;">"I never in my wildest dreams would have predicted the evolution of the Internet. And I never would've predicted the degree to which corporate influence over the Internet has changed its character over time."</i>
-      <br>
-      <b style="color: #ff79c6;">— L. Peter Deutsch</b>
-    </td>
-  </tr>
-</table>
+<p align="right">
+<i>"I never in my wildest dreams would have predicted the evolution of the Internet. And I never would've predicted the degree to which corporate influence over the Internet has changed its character over time."</i><br>
+<b>— L. Peter Deutsch</b>
+</p>
