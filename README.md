@@ -1,50 +1,49 @@
 <div align="center">
 
-<samp>👋 Hi, I'm Chana Winefeld</samp>
+# 👋 Hi , I'm Chana Winefeld
 
-**Full Stack Developer**
+Full Stack Developer
 
-<br>
-
-<small>
-FullStack Developer with sharp analytical thinking, quick learning ability, and advanced technological skills. <br>
-Passionate about mastering new technologies and solving problems in-depth. <br>
-Strong desire to grow and advance professionally.
-</small>
+</div>
 
 ---
 
-<samp>My skills</samp> 
+### About me
 
-<br>
+FullStack Developer with sharp analytical thinking, quick learning ability, and advanced technological skills. Passionate about mastering new technologies and solving problems in-depth. Strong desire to grow and advance professionally.
 
+### My skills
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,dotnet,cs,python,java,html,css,tailwind,redux,mongodb,mysql,sqlite,postgres,docker,git,github,vscode,linux,aws,figma,postman" />
+</p>
 
 ---
 
-<samp>My GitHub Stats</samp>
+### My GitHub Stats
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chana-Winefeld&layout=compact&theme=radical&hide_border=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Chana-Winefeld&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <table border="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chana-Winefeld&layout=compact&theme=radical&hide_border=true" height="155px" />
+    <td width="60%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chana-Winefeld&theme=radical&hide_border=true" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Chana-Winefeld&show_icons=true&theme=radical&hide_border=true" height="155px" />
+    <td width="40%" style="background-color: #0d1117; border-radius: 10px; padding: 10px;">
+      <i style="color: #f8f8f2; font-size: 14px;">"I never in my wildest dreams would have predicted the evolution of the Internet. And I never would've predicted the degree to which corporate influence over the Internet has changed its character over time."</i>
+      <br>
+      <b style="color: #ff79c6;">— L. Peter Deutsch</b>
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chana-Winefeld&theme=radical&hide_border=true" />
-
-<br>
-
-<small>
-<i>"I never in my wildest dreams would have predicted the evolution of the Internet. And I never would've predicted the degree to which corporate influence over the Internet has changed its character over time."</i>  
-<br>
-<b>— L. Peter Deutsch</b>
-</small>
-
-</div>
