@@ -39,12 +39,12 @@ FullStack Developer with sharp analytical thinking, quick learning ability, and 
 
 <br/>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Chana-Winefeld&theme=radical&hide_border=true" width="450" height="170" />
+    <td width="60%">
+      <img src="https://streak-stats.demolab.com/?user=Chana-Winefeld&theme=radical&hide_border=true" width="100%" />
     </td>
-    <td style="padding: 20px; max-width: 300px;">
+    <td width="40%" style="padding: 20px; vertical-align: middle;">
       <i>"I never in my wildest dreams would have predicted the evolution of the Internet. And I never would've predicted the degree to which corporate influence over the Internet has changed its character over time."</i>
       <br/><br/>
       <b>— L. Peter Deutsch</b>
